@@ -1,6 +1,6 @@
-﻿The Rewards to Meeting or Beating Earnings Expectations 
+**The Rewards to Meeting or Beating Earnings Expectations**
 
-Eli Bartov, Dan Givoly and Carla Hayn\* 
+*Eli Bartov, Dan Givoly and Carla Hayn* 
 
 March 1999 
 
@@ -10,7 +10,7 @@ We thank Michael Brennan, Jack Hughes, Patricia Hughes, Jim Ohlson and Joshua Ro
 
 I/B/E/S International, Inc. provided data on analysts’ earnings forecasts. 
 
-* The authors are, respectively, at New York University, University of California at Irvine, and University of California at Los Angeles. 
+*The authors are, respectively, at New York University, University of California at Irvine, and University of California at Los Angeles.*
 
 **The Rewards to Meeting or Beating Earnings Expectations** 
 
@@ -18,9 +18,7 @@ I/B/E/S International, Inc. provided data on analysts’ earnings forecasts.
 
 The paper studies the manner by which earnings expectations are met, measures the rewards to meeting  or  beating  earnings  expectations  (MBE)  formed  just  prior  to  the  release  of  quarterly earnings, and tests alternative explanations for this reward. The evidence supports the claims that the MBE phenomenon has become more widespread in recent years and that the pattern by which MBE is  obtained  is  consistent  with  both  earnings  management  and  expectation  management.  More importantly, the evidence shows that after controlling for the overall earnings performance in the quarter, firms that manage to meet or beat their earnings expectations enjoy an average quarterly return that is higher by almost 3% than their peers that fail to do so. While investors appear to discount MBE cases that are likely to result from expectation or earnings management, the premium in these cases is still significant. Finally, the results are consistent with an economic explanation for the premium placed on earnings surprises, namely that MBE are informative of the firm’s future performance.  
 
-Key Words: Earnings expectations, analysts’ forecasts, expectation management, earnings    
-
-`       `management, losses
+Key Words: Earnings expectations, analysts’ forecasts, expectation management, earnings management, losses
 
 **The Rewards to Meeting or Beating Earnings Expectations** 
 
@@ -35,9 +33,6 @@ The importance assigned to meeting earnings expectations is not surprising given
 The purpose of this paper is threefold. The first objective of the paper is to test whether, after controlling for the earnings forecast error for the period, there is a market premium to firms that meet or beat  their  earnings  expectations  formed just prior to the release of quarterly earnings. The second objective is to determine whether the data on earnings forecast revisions and earnings surprises are consistent with expectation or earnings management and, if so, whether the market premium to MBE exists even in cases where earnings or expectations are likely to have been managed. Finally, the paper attempts to provide explanations for the potential payoffs from an MBE strategy that are consistent with investor rationality.  
 
 Based on a sample of over 150,000 quarterly earnings forecasts made between the years 1983 to 1997  and  covering  approximately  75,000  firm-quarters,  the  paper  finds  that,  in  line  with  previous research,  instances  in  which  companies  meet  or  beat  contemporaneous  analysts’  estimates  have 
-
-26
-
 increased considerably in recent years. The trend is common to all four quarterly reporting periods and is present also in the annual period. It is observed for both large and small firms. On average, analysts’ forecasts made at the beginning of the period overestimate earnings (see similar findings by Barefield and Comiskey [1975] and Brown [1997], among others). However as the end of the reporting period approaches analysts’ optimism (i.e., their overestimation) turns, through the predominance of downward revisions in earnings estimates, into pessimism (i.e., underestimation). Furthermore, the proportion of negative forecast error cases (measured relative to analysts’ earnings forecasts made at the beginning of the quarter) that ends with a zero or positive earnings surprise (measured relative to the most recent analysts’ earnings estimate) is greater than the proportion of positive or zero forecast error cases that ends with a negative surprise.  These findings are consistent with expectation management that takes place late in the reporting period.  
 
 Our primary findings show that investors reward firms whose earnings meet or beat analysts’ estimates. After controlling for the quarterly forecast error (measured relative to analysts’ earnings forecasts made at the beginning of the quarter), the quarter’s abnormal returns (measured over the same period as the corresponding quarterly forecast errors) are positively and significantly associated with the earnings surprise for the quarter (measured relative to the most recent estimate). The average return over quarters associated with a positive earnings surprise is significantly higher, by almost 3%, than the return over quarters that have the same overall quarterly earnings forecast error but end with a negative earnings surprise. These results suggest that, independent of the market valuation of the earnings level, there is a reward (penalty) to beating (failing to meet) analysts’ earnings expectation. Furthermore, our tests, based on accrual analysis, show that the premium to MBE is only slightly reduced when earnings or expectations appear to have been managed. 
@@ -64,25 +59,7 @@ Indeed,  the  event-study  methodology  provides  more  conclusive  results.  Wh
 
 3. **Hypotheses Development** 
 
-The following description of the chronology of the earnings forecasts and the earnings announcements, illustrated in Figure 1, is helpful in understanding the hypotheses and tests of the paper.  Over the course of the current quarter and surrounding days, the earnings announcement of the preceding quarter is issued and, subsequently, an earnings forecast for the current quarter is made, forecast revisions occur and, following the end of the quarter, the actual earnings number is released. We define the net revision in analysts’ forecasts of earnings during the quarter (REV ) as the difference 
-
-Q ,
-
-between the latest earnings forecast available for that quarter and the earliest earnings forecast made after the release of the preceding quarter’s earnings and (hereafter F and F , respectively). We 
-
-latest earliest
-
-further  define  the  earnings  surprise  for  the  quarter  (SURP )  as  the  difference  between  the  actual 
-
-Q
-
-earnings number for the quarter and F The forecast error for the quarter (ERROR ) is the difference 
-
-latest.  Q
-
-between the actual earnings number and F . 
-
-earliest
+The following description of the chronology of the earnings forecasts and the earnings announcements, illustrated in Figure 1, is helpful in understanding the hypotheses and tests of the paper.  Over the course of the current quarter and surrounding days, the earnings announcement of the preceding quarter is issued and, subsequently, an earnings forecast for the current quarter is made, forecast revisions occur and, following the end of the quarter, the actual earnings number is released. We define the net revision in analysts’ forecasts of earnings during the quarter (REV ) as the difference Q ,between the latest earnings forecast available for that quarter and the earliest earnings forecast made after the release of the preceding quarter’s earnings and (hereafter F and F , respectively). We latest earliest  further  define  the  earnings  surprise  for  the  quarter  (SURP)  as  the  difference  between  the  actual Q earnings number for the quarter and F The forecast error for the quarter (ERROR) is the difference latest. Q between the actual earnings number and F.earliest
 
 For ease of exposition, we denote the combination of the direction of the net revision (up, down or zero) and the sign of the earnings surprise (positive, negative or zero) as the “expectation path.” Because the set of possible expectation paths is somewhat different for cases with positive, zero or negative errors, we examine the paths separately for each error-sign group. Specifically, the following paths are examined:  
 
