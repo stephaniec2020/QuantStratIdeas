@@ -21,3 +21,6 @@ Description: [Chat With Traders Podcast](https://www.youtube.com/@ChatWithTrader
 
 ### Quantra
 Description: [Quantra](https://www.youtube.com/@quantra) is a YouTube channel that offers basic, simple educational content on algorithmic trading, quantitative finance, and data-driven trading strategies. The channel provides tutorials, webinars, and case studies on topics such as financial modeling, machine learning, data analysis, and backtesting. The content is aimed at helping traders and investors generate trading ideas and develop robust trading strategies.
+
+### Artem Kirsanov
+Description: [Artem Kirsanov](https://www.youtube.com/@ArtemKirsanov) is a computational neuroscience student and researcher. On this YouTube channel, Artem delves into deep explorations of interesting topics and papers from neuroscience and related fields. The channel offers insights and discussions on the intricacies of the brain and provides valuable content for those interested in understanding the complexities of neuroscience.
