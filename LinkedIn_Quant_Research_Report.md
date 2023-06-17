@@ -16,4 +16,5 @@ Weather Portfolio?](https://media.licdn.com/dms/document/media/D561FAQGr-aem3lqw
 Equities Markets](https://media.licdn.com/dms/document/media/C561FAQGVnQVqhZqUkg/feedshare-document-pdf-analyzed/0/1679547448100?e=1687996800&v=beta&t=psswyqChCcTBPxnr0M_pwT0uSHp8wtJt6fZI1jF-2rM)
 - [Time Series Analysis: Application in Pair Trading](https://media.licdn.com/dms/document/media/D561FAQEBKBXAF2CT-g/feedshare-document-pdf-analyzed/0/1684048541135?e=1687996800&v=beta&t=iN9jIpl2-HljA_52HvOGuExacQaxRJPP_qvmEJiPEI0)
 
-[J.P. Morgan Private Bank](https://media.licdn.com/dms/document/media/D561FAQFBDJC30Sbv5w/feedshare-document-pdf-analyzed/0/1686977094719?e=1687996800&v=beta&t=BlY6dsdf_MqEsz7I8liH6SoP1tiVKn6iV5oLZnoyECg)
+J.P. Morgan Private Bank:
+- [The recession obsession - Mid-Year Outlook 2023](https://media.licdn.com/dms/document/media/D561FAQFBDJC30Sbv5w/feedshare-document-pdf-analyzed/0/1686977094719?e=1687996800&v=beta&t=BlY6dsdf_MqEsz7I8liH6SoP1tiVKn6iV5oLZnoyECg)
