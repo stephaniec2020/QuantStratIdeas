@@ -12,6 +12,6 @@ Another good society which publish report regularly [CUHK Quant Trading Society 
 Markets Reduces Sharpe Ratio?](https://media.licdn.com/dms/document/media/C561FAQG3WQY_UxuAyw/feedshare-document-pdf-analyzed/0/1676875512813?e=1687996800&v=beta&t=0LabsD-uLUK7GDljJewutPc2V5CVLeUP4dvOJhTVoxQ)
 - [What insights could we obtain from the All
 Weather Portfolio?](https://media.licdn.com/dms/document/media/D561FAQGr-aem3lqwew/feedshare-document-pdf-analyzed/0/1682487237060?e=1687996800&v=beta&t=61kdlQHmapyBjW39W-YN-a11nqA4BZL4CYRqd5ZlGTs)
--[Evidence of Alpha Decay in US
+- [Evidence of Alpha Decay in US
 Equities Markets](https://media.licdn.com/dms/document/media/C561FAQGVnQVqhZqUkg/feedshare-document-pdf-analyzed/0/1679547448100?e=1687996800&v=beta&t=psswyqChCcTBPxnr0M_pwT0uSHp8wtJt6fZI1jF-2rM)
 - [Time Series Analysis: Application in Pair Trading](https://media.licdn.com/dms/document/media/D561FAQEBKBXAF2CT-g/feedshare-document-pdf-analyzed/0/1684048541135?e=1687996800&v=beta&t=iN9jIpl2-HljA_52HvOGuExacQaxRJPP_qvmEJiPEI0)
